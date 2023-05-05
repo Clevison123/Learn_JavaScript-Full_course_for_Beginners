@@ -14,7 +14,7 @@ function testSize(num) {
     return "Change Me";
 }
 
-console.log(testSize(7));
+console.log(testSize(23));
 
 /*
 Write chained if/else statements to fulfill the fallowing conditions:
