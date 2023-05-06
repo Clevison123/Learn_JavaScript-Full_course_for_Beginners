@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "tabnine.tabnine-vscode",
-        "dracula-theme.theme-dracula"
+        "dracula-theme.theme-dracula",
+        "adamvoss.vscode-languagetool-en"
     ]
 }
